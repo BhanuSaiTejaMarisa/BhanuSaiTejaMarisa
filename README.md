@@ -4,7 +4,7 @@
 ## I'm a Full Stack Developer
 
 - 🌱 I’m currently learning MERN Stack
-- 🥅 2021 Goals: Learn more about Open Source projects
+- 🥅 2021 Goals: Learn more about Open Source projects and FOSS
 - ⚡ Fun fact: I love to run, meditate and learn new languages
 
 
@@ -21,7 +21,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png" />]
 [<img align="left" alt="Express.js" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" />]
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
