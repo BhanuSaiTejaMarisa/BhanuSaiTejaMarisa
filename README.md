@@ -21,7 +21,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCJ0AvyeHZpt1LUcV75vNvxCMqDzwTPvuqEr0a1QMVonDCjpkwClcmP5MOPXPU5kYVg&usqp=CAU" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://www.kindpng.com/picc/m/385-3850420_mongodb-svg-png-download-svg-png-mongodb-icon.png" />]
 [<img align="left" alt="Express.js" width="26px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png" />]
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
